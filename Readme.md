@@ -1,0 +1,1 @@
+This is a repository for CrunchbangOS Applications, once the package manager is created and is fully working with access to this repo, i will then start creating an api for CrunchbangOS and release it and then accept submissions for applications and add them to the repo.
